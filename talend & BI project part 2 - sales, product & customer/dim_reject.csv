@@ -1,0 +1,10 @@
+DIReject_ID,Reject_reason
+1,Invalid SalesTerritorySK
+2,Invalid GeograohpySK
+3,Invalid ShipmethodSK
+11,Invalid EmployeeSK
+12,Invalid ProductsSK
+13,Invalid StoreSK
+14,Invalid CustomerPersonSK
+15,Invalid CurrencySK
+16,Invalid PromotionSK
